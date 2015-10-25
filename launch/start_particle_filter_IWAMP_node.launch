@@ -1,0 +1,8 @@
+<launch>
+  <node 
+    pkg="particle_filter_IWAMP" 
+    type="particle_filter_IWAMP_node" 
+    name="particle_filter_IWAMP" 
+    output="screen">
+  </node>
+</launch>
